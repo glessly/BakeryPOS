@@ -43,8 +43,8 @@ automatic inventory restoration.
 - Core POS Architecture, Security & RBAC (`SecurityHelper`, `frmLogin`, `frmManageAccounts`).
 - Master Data CRUD (`frmProducts`, `frmCategories`, `frmSuppliers`).
 - Stock-In, Audit Logs, and Database Backup/Restore.
+- Testing Validation and System Documentation.
 
 **Adrianne Sindian**
 - Sales History & Transaction Management (`frmSales`, `frmSaleDetails`, `frmEditSale`).
 - Reporting & End-of-Shift Analytics (`frmReports`, `frmEndOfShiftReport`).
-- Testing Validation and System Documentation.
